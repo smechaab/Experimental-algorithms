@@ -1,7 +1,7 @@
 # Experimental-algorithms
 
 Simple home-made kind-of Portfolio Rebalancing Algorithm written in Python using Kraken API. Currently, it doesn't make real trades.
-It's still at testing and simulation phase in order to fix and improve. Feel free to read, fix and use it at your will (and your own risk !).
+It's still at testing and simulation phase in order to fix and improve. Feel free to read, fix and use it on your will (and at your own risk !).
 
 Don't put more that you are able to lose.
 
